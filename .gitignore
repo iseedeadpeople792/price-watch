@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+.wrangler/
+node_modules/
+.dev.vars
+.env
+prices.json
